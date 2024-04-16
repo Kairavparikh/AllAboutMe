@@ -1,0 +1,1 @@
+This website reveals information all about me. It consists of 5 categories to get to know me. It will include links to all my social media as in-depth information. This website was created using Java, HTML, and CSS but also featured Bootstrap which will help users reformat the URL while stilling getting the same experience.
